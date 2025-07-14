@@ -5,6 +5,7 @@ import pickle
 import os
 import numpy as np
 
+
 DB_PATH = "app/faces.db"
 
 def create_table():
