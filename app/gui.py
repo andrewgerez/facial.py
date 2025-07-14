@@ -3,7 +3,6 @@ from tkinter import messagebox, simpledialog
 import threading
 from facial_recognition import init_db, register_face_with_id, recognize_once
 
-
 def handle_register():
     user_id = simpledialog.askstring("Cadastro", "Digite o ID para esse rosto:")
     if not user_id:
