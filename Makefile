@@ -1,7 +1,7 @@
 VENV_DIR := .venv
 PYTHON := $(VENV_DIR)/Scripts/python.exe
 PIP := $(VENV_DIR)/Scripts/pip.exe
-SCRIPT := app/facial_recognition.py
+SCRIPT := app/gui.py
 DB := faces.db
 
 REQUIREMENTS := face_recognition opencv-python
