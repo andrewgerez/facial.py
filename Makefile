@@ -4,7 +4,7 @@ PIP := $(VENV_DIR)/Scripts/pip.exe
 SCRIPT := app/gui.py
 DB := faces.db
 
-REQUIREMENTS := face_recognition opencv-python
+REQUIREMENTS := face_recognition opencv-python customtkinter
 
 .PHONY: all venv install run clean reset-db help
 
