@@ -58,7 +58,7 @@ Prerequisites for installing and running the application locally.
 
 ## Contact
 
-Andrew Gerez - [Linkedin](https://www.linkedin.com/in/andrewgerez/) - andrewgerez18@gmail.com
+Andrew Gerez - [Linkedin](https://www.linkedin.com/in/andrewgerez/) - agsoftwareengineering@gmail.com
 
 Project Link: [https://github.com/andrewgerez/facial.py](https://github.com/andrewgerez/facial.py)
 
